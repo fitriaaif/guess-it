@@ -4,7 +4,6 @@ import numpy as np
 from PIL import Image, ImageTk, ImageDraw
 
 model = ai.load_ai()
-git 
 window = tk.Tk()
 
 img = Image.new(mode="1", size=(500,500), color=0)
